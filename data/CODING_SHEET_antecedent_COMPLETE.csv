@@ -1,0 +1,149 @@
+blind_id,first_gaze_s,gaze_to_stimulus_latency_s,precue_fixation_0_1,offroad_dwell_total_s,longest_offroad_dwell_s,apparent_lean_in_0_1,approach_to_board_0_3,line_departure_0_2,notes
+CLIP_000547,0,,1,,,0,0,0,
+CLIP_082CF2,3.554,,0,,,1,0,0,attempt to look at the sign as passing. Don’t stop but seem to struggle
+CLIP_092699,3.502,,0,,,0,0,0,
+CLIP_098692,3.000,,1,,,0,0,0,
+CLIP_0AB025,5.824,,0,,,1,1,1,
+CLIP_0ABDA4,2.804,,1,,,0,1,1,minor delay in taking the turn
+CLIP_0C6813,3.434,,0,,,0,NA,0,slowed down
+CLIP_11393F,2.420,,1,,,1,1,1,"fast approach (5mph), delayed taking the turn"
+CLIP_156AFE,NA,0,0,,,0,0,1,minor delay in taking the turn
+CLIP_159857,NA,NA,0,,,0,NA,0,Name from working memory
+CLIP_1736BD,2.724,,0,,,0,0,0,
+CLIP_1E5916,3.021,,0,,,0,0,0,
+CLIP_1E9072,NA,NA,0,,,0,NA,0,Name from working memory
+CLIP_211EFE,3.190,,0,,,0,NA,0,Name from visual search
+CLIP_21AD6D,NA,NA,0,,,0,0,0,Didn’t look at target
+CLIP_21F753,NA,NA,0,,,0,1,1,Slowed to check 
+CLIP_236388,3.321,,0,,,0,NA,0,Name from visual search
+CLIP_23C07A,,0,1,,,1,1,1,"fast approach (5mph), delayed taking the turn"
+CLIP_23D46C,4.151,,0,,,0,NA,0,visual search for name
+CLIP_266BC1,3.121,,0,,,0,NA,0,visual search for name
+CLIP_26D764,2.737,,0,,,1,1,1,slowed right dow
+CLIP_27EA51,NA, ,1,,,0,0,0,
+CLIP_2B3CCE,3.495,,0,,,0,0,0,
+CLIP_2C9F04,,0,1,,,0,0,0,
+CLIP_2E1D71,0.964,,1,,,0,0,0,
+CLIP_2E741A,,0,1,,,0,0,0,low speed
+CLIP_2FDD10,GLITCH,,,,,,,,
+CLIP_302472,4.107,,0,,,0,1,1,major delay in turn
+CLIP_307EDA,,0,1,,,0,0,0,
+CLIP_30994B,,0,1,,,0,0,0,
+CLIP_341475,,0,1,,,0,0,0,
+CLIP_34F144,,0,1,,,0,0,0,
+CLIP_39F8B5,3.489,,0,,,0,1,1,stopped to read sign
+CLIP_4097B9,3.190,,0,,,0,0,0,
+CLIP_444F9F,NA,,0,,,0,NA,0,Name from working memory
+CLIP_44FB08,3.763,,0,,,0,1,1,slowed right down to see sign
+CLIP_45EEA9,NA,,0,,,0,NA,0,Name from working memory
+CLIP_47D1F1,2.590,,0,,,0,0,0,
+CLIP_4A91C5,3.158,,1,,,0,1,1,slowed right down to see squirrel
+CLIP_4DDD00,4.955,,0,,,0,1,1,minor delay in taking the turn
+CLIP_4DF081,1.679,,0,,,0,1,1,slowed right down to see rabbit
+CLIP_5046EE,3.443,,0,,,0,0,0,low speed
+CLIP_517256,3.048,,0,,,0,0,0,
+CLIP_53067F,3.246,,0,,,0,NA,0,Quick confirmation glance at Name. Probably from memory
+CLIP_539DBE,2.943,,1,,,1,0,0,Lean to the left to get a look at the no markings sign
+CLIP_574076,4.922,,0,,,1,NA,1,slowed down and delayed turn
+CLIP_57F3C7,4.566,,0,,,1,0,1,slowed down to see the rabbit
+CLIP_5887CF,3.957,,0,,,0,0,1,slowed down to see the squirrel and take the bend
+CLIP_58AE3C,NA,,0,,,0,NA,0,Name from working memory
+CLIP_58B634,2.968,,0,,,0,1,1,Slowed down to see the rabbit
+CLIP_5BE5A5,"4,284",,0,,,0,0,0,
+CLIP_5C89DD,3.986,,1,,,0,0,0,
+CLIP_5FFAB8,NA,,0,,,0,NA,0,Name from working memory
+CLIP_60EEE0,NA,,0,,,0,0,1,"Looked at wrong stimuli, and the effort made them veer off track"
+CLIP_650CB5,4.284,,0,,,1,0,0,Leaned a bit left to read the Markings sign
+CLIP_65BE59,2.845,,0,,,1,1,1,slowed down to see the rabbit
+CLIP_667750,5.714,,0,,,0,1,1,came to a crawl to see the rabbit
+CLIP_67E005,,0,1,,,0,0,1,minor delay in taking the turn
+CLIP_68D313,,0,1,,,0,0,0,
+CLIP_69975D,,0,1,,,0,0,0,
+CLIP_69E1E1,4.588,,0,,,1,NA,1,Attempting to confirm working memory by checking the NAME 
+CLIP_6AC0AF,3.248,,1,,,0,0,0,Steady low speed
+CLIP_71F0F8,3.286,,0,,,0,0,0,
+CLIP_73B20C,GLITCH,,,,,,,,
+CLIP_75DBC6,GLITCH,,,,,,,,
+CLIP_7641E4,,0,1,,,1,1,1,leaning into see the squirrel
+CLIP_7662D2,,0,1,,,1,0,1,delayed turn to see rabbit
+CLIP_79FB28,3.852,,0,,,0,1,1,delayed turn to see squirrel - possible lean in. Hard to tell. 
+CLIP_7A6A03,3.886,,0,,,0,NA,0,Name from visual search
+CLIP_7B301F,GLITCH,0,1,,,,,,
+CLIP_7C4EA4,3.284,,0,,,0,NA,0,
+CLIP_7DC4D4,,0,1,,,0,0,1,minor delay in taking the turn
+CLIP_7EB239,4.108,,0,,,1,1,1,delays turn to look at squirrel
+CLIP_7FB941,2.633,,0,,,1,1,1,major delay in turn to look at squirrel
+CLIP_82FD23,4.448,,0,,,0,NA,0,
+CLIP_86979D,NA,,0,,,0,NA,0,Name from working memory
+CLIP_86F792,3.065,,1,,,1,1,1,slows down and delays turn to look at rabbit
+CLIP_87AFC9,2.400,,1,,,1,0,0,"steady low speed, leaned to track squirrel but kept course"
+CLIP_8B420C,2.990,,0,,,1,0,1,went from 4mph to 0 in order to see the rabbit sign
+CLIP_8DEAC7,3.429,,0,,,0,NA,0,Name from visual search
+CLIP_905780,3.595,,0,,,0,NA,0,
+CLIP_9102EA,,0,1,,,0,0,0,
+CLIP_929C4E,6.107,,0,,,1,1,1,minor delay in taking the turn to view squirrel
+CLIP_952308,2.660,,0,,,1,0,1,slowed to stop to check squirrel sign
+CLIP_990665,,0,1,,,0,0,0,
+CLIP_9A455C,3.246,,0,,,1,1,1,straightened up steering slowed and edged toward rabbit. Delayed turn
+CLIP_9DC64A,3.308,,1,,,,1,1,minor delay in turn to read markings sign
+CLIP_A090A8,NA,,0,,,0,0,0,Did not look at the sign
+CLIP_A329A4,4.222,,0,,,0,NA,1,Slowed down to read name tag
+CLIP_A345F1,3.101,,0,,,1,1,1,delay turning to see squirrel
+CLIP_A4363B,NA,,0,,,1,1,1,attempt to slow down to see signs but miss them
+CLIP_A541D3,,0,1,,,0,0,0,
+CLIP_A8B537,,,1,,,0,0,0,
+CLIP_A9545E,NA,,NA,,,0,NA,0,Name from working memory
+CLIP_A95696,3.098,,0,,,0,1,1,slowing for rabbit and minor delay in turning
+CLIP_A9E4A8,4.694,,1,,,1,1,1,slowed down to read markings sign. Minor delay in turn
+CLIP_AB9825,3.354,,0,,,0,NA,0,Name from visual search
+CLIP_AD0486,,0,1,,,1,1,1,Leans in left and delays turn to read Markings sign
+CLIP_AD359E,NA,,0,,,0,NA,0,Name from working memory
+CLIP_AF970F,2.976,,0,,,0,0,0,
+CLIP_B41B2C,NA,,1,,,0,0,0,
+CLIP_B42489,3.901,,0,,,0,0,1,stopped to look at squirrel 
+CLIP_B58269,3.539,,0,,,0,NA,0,Name from visual search
+CLIP_BA49B3,3.563,,0,,,0,NA,0,Name from visual search
+CLIP_BC60DD,2.792,,0,,,0,0,1,minor delay in turn to look at squirrel
+CLIP_BD84FE,NA,,0,,,0,0,0,
+CLIP_BDDFE9,6.297,,0,,,0,0,0,
+CLIP_BF637D,5.481,,0,,,1,1,1,slowed down and delayed turn to see rabbit
+CLIP_C45794,3.086,,0,,,0,0,0,
+CLIP_C64E27,2.310,,0,,,1,1,1,delay in turn to see the squirrel
+CLIP_C9D003,5.034,,0,,,0,NA,0,Name from visual search
+CLIP_CB95FD,4.460,,0,,,1,1,1,Delay in turn to read Markings Sign
+CLIP_CD6842,3.143,,0,,,0,0,0,
+CLIP_CEF0A7,3.430,,0,,,1,1,1,Delay in turn to see rabbit
+CLIP_D0AA7F,2.410,,0,,,0,0,0,
+CLIP_D0ED19,3.371,,0,,,0,0,0,very low speed
+CLIP_D1108C,3.582,,0,,,0,NA,0,Name from visual search
+CLIP_D1810D,,0,1,,,0,0,0,
+CLIP_D2B57F,2.477,,0,,,1,1,1,"Lean in to see squirrel, drive closer, major delay to turn"
+CLIP_D410E3,3.015,,0,,,1,0,0,Lean in to see Markings sign
+CLIP_D6D4ED,3.415,,0,,,0,0,0,
+CLIP_D8CAA4,3.094,,0,,,0,1,1,slow down and drive up to the squirrel. Hard to tell if they’re leaning in. 
+CLIP_DDA306,4.185,,0,,,0,0,1,Came to a stop before turning to look at the rabbit
+CLIP_DDCB80,3.286,,0,,,0,0,0,slight slowing for rabbit
+CLIP_DE5E8D,3.843,,0,,,0,1,1,minor delay in taking bend to look at squirrel
+CLIP_E2C82B,2.880,,0,,,0,0,0,very low speed
+CLIP_E36B98,,0,1,,,0,0,0,
+CLIP_E93748,2.973,,0,,,0,NA,0,Name from visual search
+CLIP_E93D7E,4.576,,0,,,0,NA,0,Name from visual search
+CLIP_E942CC,,0,1,,,0,0,1,minor delay in taking bend to look at squirrel
+CLIP_EA173A,2.177,,0,,,1,1,1,"major delay in turn, drove right up to the squirrel and leaned right in. Perfect example of the dual zoom. "
+CLIP_EC056B,GLITCH,0,1,,,,,,
+CLIP_EC31CA,3.354,,0,,,0,0,0,
+CLIP_EC8214,2.835,,0,,,1,1,1,"A slight lean, and delayed turn. "
+CLIP_F19905,GLITCH,,1,,,,,,
+CLIP_F4653A,3.571,,0,,,0,NA,1,Sudden increase in speed when answering query. 
+CLIP_F7BB54,3.185,,0,,,1,1,1,"Leaned, slowed, delayed turn to see rabbit. "
+CLIP_F8A86D,NA,,0,,,0,NA,0,Name from working memory
+CLIP_F9AEA5,3.902,,0,,,0,0,0,
+CLIP_FAB901,NA,,0,,,0,NA,0,Name from working memory
+CLIP_FAE29F,3.196,,0,,,0,NA,0,Name from visual search
+CLIP_FB6A0F,3.391,,0,,,0,NA,0,Name from visual search
+CLIP_FB7FCB,3.439,,0,,,0,1,1,Slowed down and got closer to see rabbit
+CLIP_FBA2FE,3.955,,1,,,0,0,0,low speed
+CLIP_FBF028,4.421,,1,,,0,0,0,
+CLIP_FE9B4E,3.202,,1,,,1,0,1,stopped to look at squirrel 
+CLIP_FF89D0,NA,,0,,,0,NA,0,Name from working memory]
+CLIP_FFC9D7,2.523,,1,,,1,1,1,slowed down and delayed turn to squirrel 

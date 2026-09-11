@@ -1,0 +1,19 @@
+# Environments / caches / OS
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# Large raw recordings not distributed (see README)
+Data_Sorted/
+*.wav
+*.mp4
+*.mov
+*.pt
+*.pkl
+
+# Local holding dir
+_removed_from_examiner_pkg/

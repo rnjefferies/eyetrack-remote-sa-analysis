@@ -1,0 +1,143 @@
+blind_id,first_gaze_s,gaze_to_stimulus_latency_s,precue_fixation_0_1,offroad_dwell_total_s,longest_offroad_dwell_s,apparent_lean_in_0_1,approach_to_board_0_3,line_departure_0_2,notes,set,pid,route,event,qtype,target,strategy,collision,flag5s,start_s,content_end_s,cue_s,ans_s,collision_s,fg_raw,lat_entered,GLITCH,latency_s,precue_fixation_0_1_n,apparent_lean_in_0_1_n,approach_to_board_0_3_n,line_departure_0_2_n,no_acquisition,approach,lean,linedep,dualzoom,visualID
+CLIP_000547,0,,1.0,,,0.0,0.0,0.0,,D,37_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,31.29,38.37,33.29,37.37,,0.0,,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_082CF2,3.554,,0.0,,,1.0,0.0,0.0,attempt to look at the sign as passing. Don’t stop but seem to struggle,D,24_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,9.92,15.15,11.92,14.15,,3.554,,False,1.5539999999999998,0.0,1.0,0.0,0.0,False,0.0,1.0,0.0,0.0,True
+CLIP_092699,3.502,,0.0,,,0.0,0.0,0.0,,D,08_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,24.53,29.25,26.53,28.25,,3.502,,False,1.5019999999999998,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_098692,3.000,,1.0,,,0.0,0.0,0.0,,D,23_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,5.36,12.1,7.36,11.1,,3.0,,False,1.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_0AB025,5.824,,0.0,,,1.0,1.0,1.0,,D,36_RT,3,Q1,Animal,Rabbit,Not_Applicable,1,1,6.14,16.14,8.14,15.45,16.4,5.824,,False,3.824,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_0ABDA4,2.804,,1.0,,,0.0,1.0,1.0,minor delay in taking the turn,A,20_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,0,30.49,35.11,32.49,34.11,39.4,2.804,,False,0.8039999999999998,1.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_0C6813,3.434,,0.0,,,0.0,,0.0,slowed down,C,35_RT,2,Q1,Name,Name1,Visual_Search,0,0,8.72,15.84,10.72,14.84,,3.434,,False,1.4340000000000002,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_11393F,2.420,,1.0,,,1.0,1.0,1.0,"fast approach (5mph), delayed taking the turn",D,33_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,20.76,26.08,22.76,25.08,,2.42,,False,0.4199999999999999,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_156AFE,,0,0.0,,,0.0,0.0,1.0,minor delay in taking the turn,A,04_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,0,48.2,52.36,50.2,51.36,56.98,,0.0,False,,0.0,0.0,0.0,1.0,True,0.0,0.0,1.0,0.0,True
+CLIP_159857,,,0.0,,,0.0,,0.0,Name from working memory,C,07_RT,2,Q1,Name,Name1,Working_Memory,0,0,10.51,14.73,12.51,13.73,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_1736BD,2.724,,0.0,,,0.0,0.0,0.0,,D,31_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,21.86,26.37,23.86,25.37,,2.724,,False,0.7240000000000002,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_1E5916,3.021,,0.0,,,0.0,0.0,0.0,,D,35_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,33.36,40.66,35.36,39.66,,3.021,,False,1.021,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_1E9072,,,0.0,,,0.0,,0.0,Name from working memory,C,26_RT,2,Q1,Name,Name1,Working_Memory,0,0,7.73,12.36,9.73,11.36,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_211EFE,3.190,,0.0,,,0.0,,0.0,Name from visual search,C,09_RT,2,Q1,Name,Name1,Visual_Search,0,0,14.01,18.07,16.01,17.07,,3.19,,False,1.19,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_21AD6D,,,0.0,,,0.0,0.0,0.0,Didn’t look at target,B,35_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,39.5,44.06,41.5,43.06,,,,False,,0.0,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,True
+CLIP_21F753,,,0.0,,,0.0,1.0,1.0,Slowed to check ,D,11_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.78,15.87,10.78,14.87,,,,False,,0.0,0.0,1.0,1.0,True,1.0,0.0,1.0,0.0,True
+CLIP_236388,3.321,,0.0,,,0.0,,0.0,Name from visual search,C,27_RT,2,Q1,Name,Name1,Visual_Search,0,0,11.39,16.0,13.39,15.0,,3.321,,False,1.3210000000000002,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_23C07A,,0,1.0,,,1.0,1.0,1.0,"fast approach (5mph), delayed taking the turn",D,16_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,16.73,21.74,18.73,20.74,,,0.0,False,0.0,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_23D46C,4.151,,0.0,,,0.0,,0.0,visual search for name,C,08_RT,2,Q1,Name,Name1,Visual_Search,0,0,8.87,14.49,10.87,13.49,,4.151,,False,2.151,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_266BC1,3.121,,0.0,,,0.0,,0.0,visual search for name,C,28_RT,2,Q1,Name,Name1,Visual_Search,0,0,9.64,13.86,11.64,12.86,,3.121,,False,1.121,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_26D764,2.737,,0.0,,,1.0,1.0,1.0,slowed right dow,D,27_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.59,15.25,10.59,14.25,,2.737,,False,0.7370000000000001,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_27EA51,, ,1.0,,,0.0,0.0,0.0,,B,23_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,35.49,39.91,37.49,38.91,,,,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_2B3CCE,3.495,,0.0,,,0.0,0.0,0.0,,D,26_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.52,13.99,10.52,12.99,,3.495,,False,1.495,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_2C9F04,,0,1.0,,,0.0,0.0,0.0,,B,28_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,28.77,33.07,30.77,32.07,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_2E1D71,0.964,,1.0,,,0.0,0.0,0.0,,D,13_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,56.92,61.82,58.92,60.82,,0.964,,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_2E741A,,0,1.0,,,0.0,0.0,0.0,low speed,B,06_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,50.7,54.88,52.7,53.88,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_302472,4.107,,0.0,,,0.0,1.0,1.0,major delay in turn,D,25_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,6.75,12.52,8.75,11.52,,4.107,,False,2.107,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_307EDA,,0,1.0,,,0.0,0.0,0.0,,D,19_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,38.46,42.66,40.46,41.66,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_30994B,,0,1.0,,,0.0,0.0,0.0,,D,24_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,31.14,35.45,33.14,34.45,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_341475,,0,1.0,,,0.0,0.0,0.0,,D,14_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,6.59,12.75,8.59,11.75,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_34F144,,0,1.0,,,0.0,0.0,0.0,,D,17_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,38.33,42.71,40.33,41.71,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_39F8B5,3.489,,0.0,,,0.0,1.0,1.0,stopped to read sign,D,04_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,14.67,22.19,16.67,21.19,,3.489,,False,1.489,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_4097B9,3.190,,0.0,,,0.0,0.0,0.0,,D,25_RT,3,Q3,Sign,Markings,Not_Applicable,1,1,21.39,25.78,23.39,24.78,29.42,3.19,,False,1.19,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_444F9F,,,0.0,,,0.0,,0.0,Name from working memory,C,02_RT,2,Q1,Name,Name1,Working_Memory,1,0,24.59,28.22,26.59,30.99,28.32,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_44FB08,3.763,,0.0,,,0.0,1.0,1.0,slowed right down to see sign,D,37_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.12,14.82,10.12,13.82,,3.763,,False,1.763,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_45EEA9,,,0.0,,,0.0,,0.0,Name from working memory,C,01_RT,2,Q1,Name,Name1,Working_Memory,0,0,5.09,10.99,7.09,9.99,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_47D1F1,2.590,,0.0,,,0.0,0.0,0.0,,D,15_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,7.89,13.14,9.89,12.14,,2.59,,False,0.5899999999999999,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_4A91C5,3.158,,1.0,,,0.0,1.0,1.0,slowed right down to see squirrel,B,19_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,61.03,67.47,63.03,66.47,,3.158,,False,1.158,1.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_4DDD00,4.955,,0.0,,,0.0,1.0,1.0,minor delay in taking the turn,D,35_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.13,16.07,10.13,15.07,,4.955,,False,2.955,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_4DF081,1.679,,0.0,,,0.0,1.0,1.0,slowed right down to see rabbit,D,13_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,19.21,24.78,21.21,23.78,,1.679,,False,0.0,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_5046EE,3.443,,0.0,,,0.0,0.0,0.0,low speed,D,09_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,14.7,20.01,16.7,19.01,,3.443,,False,1.443,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_517256,3.048,,0.0,,,0.0,0.0,0.0,,D,29_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,20.53,25.02,22.53,24.02,,3.048,,False,1.048,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_53067F,3.246,,0.0,,,0.0,,0.0,Quick confirmation glance at Name. Probably from memory,C,16_RT,2,Q1,Name,Name1,Visual_Search,0,0,4.62,9.01,6.62,8.01,,3.246,,False,1.246,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_539DBE,2.943,,1.0,,,1.0,0.0,0.0,Lean to the left to get a look at the no markings sign,D,11_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,30.21,35.54,32.21,34.54,,2.943,,False,0.943,1.0,1.0,0.0,0.0,False,0.0,1.0,0.0,0.0,True
+CLIP_574076,4.922,,0.0,,,1.0,,1.0,slowed down and delayed turn,C,30_RT,2,Q1,Name,Name1,Visual_Search,1,1,10.31,18.04,12.31,17.04,18.65,4.922,,False,2.9219999999999997,0.0,1.0,,1.0,False,0.0,1.0,1.0,0.0,False
+CLIP_57F3C7,4.566,,0.0,,,1.0,0.0,1.0,slowed down to see the rabbit,D,34_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,5.88,11.84,7.88,10.84,,4.566,,False,2.566,0.0,1.0,0.0,1.0,False,0.0,1.0,1.0,0.0,True
+CLIP_5887CF,3.957,,0.0,,,0.0,0.0,1.0,slowed down to see the squirrel and take the bend,B,10_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,46.54,52.68,48.54,51.68,,3.957,,False,1.957,0.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_58AE3C,,,0.0,,,0.0,0.0,0.0,Name from working memory,C,17_RT,2,Q1,Name,Name1,Working_Memory,0,0,17.74,23.15,19.74,22.15,,,,False,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_58B634,2.968,,0.0,,,0.0,1.0,1.0,Slowed down to see the rabbit,D,19_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,10.66,15.95,12.66,14.95,,2.968,,False,0.968,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_5BE5A5,"4,284",,0.0,,,0.0,0.0,0.0,,D,36_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,194.67,200.97,196.67,199.97,,4.284,,False,2.284,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_5C89DD,3.986,,1.0,,,0.0,0.0,0.0,,D,12_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,36.9,41.67,38.9,40.67,,3.986,,False,1.986,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_5FFAB8,,,0.0,,,0.0,0.0,0.0,Name from working memory,C,12_RT,2,Q1,Name,Name1,Working_Memory,0,0,11.05,15.45,13.05,14.45,,,,False,,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_60EEE0,,,0.0,,,0.0,0.0,1.0,"Looked at wrong stimuli, and the effort made them veer off track",A,36_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,33.91,38.86,35.91,37.86,41.22,,,False,,0.0,0.0,0.0,1.0,True,0.0,0.0,1.0,0.0,True
+CLIP_650CB5,4.284,,0.0,,,1.0,0.0,0.0,Leaned a bit left to read the Markings sign,D,06_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,115.56,121.47,117.56,120.47,,4.284,,False,2.284,0.0,1.0,0.0,0.0,False,0.0,1.0,0.0,0.0,True
+CLIP_65BE59,2.845,,0.0,,,1.0,1.0,1.0,slowed down to see the rabbit,D,16_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,2.15,8.65,4.15,7.65,,2.845,,False,0.8450000000000002,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_667750,5.714,,0.0,,,0.0,1.0,1.0,came to a crawl to see the rabbit,D,02_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,14.93,23.36,16.93,22.36,,5.714,,False,3.714,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_67E005,,0,1.0,,,0.0,0.0,1.0,minor delay in taking the turn,A,17_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,46.15,50.43,48.15,49.43,52.89,,0.0,False,0.0,1.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_68D313,,0,1.0,,,0.0,0.0,0.0,,D,26_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,23.69,27.85,25.69,26.85,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_69975D,,0,1.0,,,0.0,0.0,0.0,,B,05_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,35.03,38.78,37.03,37.78,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_69E1E1,4.588,,0.0,,,1.0,,1.0,Attempting to confirm working memory by checking the NAME ,C,11_RT,2,Q1,Name,Name1,Working_Memory,0,0,13.81,19.17,15.81,18.17,,4.588,,False,2.588,0.0,1.0,,1.0,False,0.0,1.0,1.0,0.0,False
+CLIP_6AC0AF,3.248,,1.0,,,0.0,0.0,0.0,Steady low speed,D,32_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,131.31,136.48,133.31,135.48,,3.248,,False,1.2480000000000002,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_71F0F8,3.286,,0.0,,,0.0,0.0,0.0,,D,29_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,5.01,10.17,7.01,9.17,,3.286,,False,1.286,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_7641E4,,0,1.0,,,1.0,1.0,1.0,leaning into see the squirrel,A,03_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,52.54,59.87,54.54,58.87,62.37,,0.0,False,0.0,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_7662D2,,0,1.0,,,1.0,0.0,1.0,delayed turn to see rabbit,D,22_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,5.99,10.48,7.99,9.48,,,0.0,False,0.0,1.0,1.0,0.0,1.0,False,0.0,1.0,1.0,0.0,True
+CLIP_79FB28,3.852,,0.0,,,0.0,1.0,1.0,delayed turn to see squirrel - possible lean in. Hard to tell. ,A,37_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,30.86,37.25,32.86,36.25,39.14,3.852,,False,1.852,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_7A6A03,3.886,,0.0,,,0.0,0.0,0.0,Name from visual search,C,37_RT,2,Q1,Name,Name1,Visual_Search,0,0,8.08,13.49,10.08,12.49,,3.886,,False,1.886,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_7C4EA4,3.284,,0.0,,,0.0,0.0,0.0,,C,34_RT,2,Q1,Name,Name1,Visual_Search,1,1,7.75,12.26,9.75,11.26,14.03,3.284,,False,1.2839999999999998,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_7DC4D4,,0,1.0,,,0.0,0.0,1.0,minor delay in taking the turn,D,17_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,13.57,18.18,15.57,17.18,,,0.0,False,0.0,1.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_7EB239,4.108,,0.0,,,1.0,1.0,1.0,delays turn to look at squirrel,B,33_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,21.65,29.36,23.65,28.36,,4.108,,False,2.1079999999999997,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_7FB941,2.633,,0.0,,,1.0,1.0,1.0,major delay in turn to look at squirrel,A,07_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,35.1,40.06,37.1,39.06,41.46,2.633,,False,0.633,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_82FD23,4.448,,0.0,,,0.0,,0.0,,C,13_RT,2,Q1,Name,Name1,Visual_Search,0,0,21.79,27.46,23.79,26.46,,4.448,,False,2.4480000000000004,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_86979D,,,0.0,,,0.0,,0.0,Name from working memory,C,18_RT,2,Q1,Name,Name1,Working_Memory,0,0,10.96,15.28,12.96,14.28,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_86F792,3.065,,1.0,,,1.0,1.0,1.0,slows down and delays turn to look at rabbit,D,31_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,3.05,9.06,5.05,8.06,,3.065,,False,1.065,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_87AFC9,2.400,,1.0,,,1.0,0.0,0.0,"steady low speed, leaned to track squirrel but kept course",B,16_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,21.58,29.84,23.58,28.84,,2.4,,False,0.3999999999999999,1.0,1.0,0.0,0.0,False,0.0,1.0,0.0,0.0,True
+CLIP_8B420C,2.990,,0.0,,,1.0,0.0,1.0,went from 4mph to 0 in order to see the rabbit sign,D,20_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,3.33,11.71,5.33,10.71,,2.99,,False,0.9900000000000002,0.0,1.0,0.0,1.0,False,0.0,1.0,1.0,0.0,True
+CLIP_8DEAC7,3.429,,0.0,,,0.0,0.0,0.0,Name from visual search,C,33_RT,2,Q1,Name,Name1,Visual_Search,0,0,5.45,10.29,7.45,9.29,,3.429,,False,1.4289999999999998,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_905780,3.595,,0.0,,,0.0,0.0,0.0,,C,14_RT,2,Q1,Name,Name1,Visual_Search,0,0,11.7,16.5,13.7,15.5,,3.595,,False,1.5950000000000002,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_9102EA,,0,1.0,,,0.0,0.0,0.0,,D,28_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,20.18,25.31,22.18,24.31,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_929C4E,6.107,,0.0,,,1.0,1.0,1.0,minor delay in taking the turn to view squirrel,A,15_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,28.87,37.9,30.87,36.9,40.73,6.107,,False,4.107,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_952308,2.660,,0.0,,,1.0,0.0,1.0,slowed to stop to check squirrel sign,B,12_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,41.64,47.7,43.64,46.7,,2.66,,False,0.6600000000000001,0.0,1.0,0.0,1.0,False,0.0,1.0,1.0,0.0,True
+CLIP_990665,,0,1.0,,,0.0,0.0,0.0,,D,14_RT,3,Q3,Sign,Markings,Not_Applicable,0,1,19.44,25.65,21.44,24.65,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_9A455C,3.246,,0.0,,,1.0,1.0,1.0,straightened up steering slowed and edged toward rabbit. Delayed turn,D,06_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,10.03,15.03,12.03,14.03,,3.246,,False,1.246,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_9DC64A,3.308,,1.0,,,,1.0,1.0,minor delay in turn to read markings sign,D,09_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,45.05,49.01,47.05,48.01,,3.308,,False,1.3079999999999998,1.0,,1.0,1.0,False,1.0,,1.0,0.0,True
+CLIP_A090A8,,,0.0,,,0.0,0.0,0.0,Did not look at the sign,D,01_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,24.03,29.67,26.03,28.67,,,,False,,0.0,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,True
+CLIP_A329A4,4.222,,0.0,,,0.0,,1.0,Slowed down to read name tag,C,06_RT,2,Q1,Name,Name1,Visual_Search,0,0,15.26,20.44,17.26,19.44,,4.222,,False,2.2220000000000004,0.0,0.0,,1.0,False,0.0,0.0,1.0,0.0,False
+CLIP_A345F1,3.101,,0.0,,,1.0,1.0,1.0,delay turning to see squirrel,B,01_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,22.11,29.25,24.11,28.25,,3.101,,False,1.101,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_A4363B,,,0.0,,,1.0,1.0,1.0,attempt to slow down to see signs but miss them,D,07_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,7.23,12.93,9.23,11.93,,,,False,,0.0,1.0,1.0,1.0,True,1.0,1.0,1.0,1.0,True
+CLIP_A541D3,,0,1.0,,,0.0,0.0,0.0,,D,04_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,41.07,47.66,43.07,46.66,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_A8B537,,,1.0,,,0.0,0.0,0.0,,D,22_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,24.86,29.51,26.86,28.51,,,,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_A9545E,,,,,,0.0,0.0,0.0,Name from working memory,C,19_RT,2,Q1,Name,Name1,Working_Memory,0,0,11.57,15.83,13.57,14.83,,,,False,,,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_A95696,3.098,,0.0,,,0.0,1.0,1.0,slowing for rabbit and minor delay in turning,D,08_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.87,13.95,10.87,12.95,,3.098,,False,1.098,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_A9E4A8,4.694,,1.0,,,1.0,1.0,1.0,slowed down to read markings sign. Minor delay in turn,D,10_RT,3,Q3,Sign,Markings,Not_Applicable,1,1,42.59,50.43,44.59,49.43,51.66,4.694,,False,2.694,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_AB9825,3.354,,0.0,,,0.0,,0.0,Name from visual search,C,10_RT,2,Q1,Name,Name1,Visual_Search,0,0,14.18,18.75,16.18,17.75,,3.354,,False,1.354,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_AD0486,,0,1.0,,,1.0,1.0,1.0,Leans in left and delays turn to read Markings sign,D,20_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,26.68,32.2,28.68,31.2,,,0.0,False,0.0,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_AD359E,,,0.0,,,0.0,,0.0,Name from working memory,C,05_RT,2,Q1,Name,Name1,Working_Memory,0,0,10.2,14.56,12.2,13.56,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_AF970F,2.976,,0.0,,,0.0,0.0,0.0,,D,34_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,27.62,36.7,29.62,35.7,,2.976,,False,0.976,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_B41B2C,,,1.0,,,0.0,0.0,0.0,,D,21_RT,3,Q3,Sign,Markings,Not_Applicable,1,1,25.58,29.59,27.58,28.59,32.22,,,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_B42489,3.901,,0.0,,,0.0,0.0,1.0,stopped to look at squirrel ,B,13_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,67.56,72.4,69.56,71.4,,3.901,,False,1.901,0.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_B58269,3.539,,0.0,,,0.0,,0.0,Name from visual search,C,24_RT,2,Q1,Name,Name1,Visual_Search,0,0,14.56,19.26,16.56,18.26,,3.539,,False,1.539,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_BA49B3,3.563,,0.0,,,0.0,,0.0,Name from visual search,C,31_RT,2,Q1,Name,Name1,Visual_Search,0,0,7.29,13.0,9.29,12.0,,3.563,,False,1.5630000000000002,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_BC60DD,2.792,,0.0,,,0.0,0.0,1.0,minor delay in turn to look at squirrel,B,25_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,27.51,32.08,29.51,31.08,,2.792,,False,0.7919999999999998,0.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_BD84FE,,,0.0,,,0.0,0.0,0.0,,B,11_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,42.04,46.82,44.04,45.82,,,,False,,0.0,0.0,0.0,0.0,True,0.0,0.0,0.0,0.0,True
+CLIP_BDDFE9,6.297,,0.0,,,0.0,0.0,0.0,,B,34_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,25.54,32.48,27.54,31.48,,6.297,,False,4.297,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_BF637D,5.481,,0.0,,,1.0,1.0,1.0,slowed down and delayed turn to see rabbit,D,01_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,8.99,15.83,10.99,14.83,,5.481,,False,3.481,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_C45794,3.086,,0.0,,,0.0,0.0,0.0,,D,03_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,31.12,36.46,33.12,35.46,,3.086,,False,1.086,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_C64E27,2.310,,0.0,,,1.0,1.0,1.0,delay in turn to see the squirrel,A,08_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,34.43,39.22,36.43,38.22,43.08,2.31,,False,0.31,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_C9D003,5.034,,0.0,,,0.0,,0.0,Name from visual search,C,15_RT,2,Q1,Name,Name1,Visual_Search,0,0,11.5,17.62,13.5,16.62,,5.034,,False,3.034,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_CB95FD,4.460,,0.0,,,1.0,1.0,1.0,Delay in turn to read Markings Sign,D,23_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,21.8,27.04,23.8,26.04,,4.46,,False,2.46,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_CD6842,3.143,,0.0,,,0.0,0.0,0.0,,B,29_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,23.63,28.45,25.63,27.45,,3.143,,False,1.1429999999999998,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_CEF0A7,3.430,,0.0,,,1.0,1.0,1.0,Delay in turn to see rabbit,D,33_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,4.12,11.04,6.12,10.04,,3.43,,False,1.4300000000000002,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_D0AA7F,2.410,,0.0,,,0.0,0.0,0.0,,B,14_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,30.55,35.73,32.55,34.73,,2.41,,False,0.4100000000000001,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_D0ED19,3.371,,0.0,,,0.0,0.0,0.0,very low speed,D,30_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,44.65,53.15,46.65,52.15,,3.371,,False,1.371,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_D1108C,3.582,,0.0,,,0.0,,0.0,Name from visual search,C,04_RT,2,Q1,Name,Name1,Visual_Search,0,0,14.13,18.87,16.13,17.87,,3.582,,False,1.582,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_D1810D,,0,1.0,,,0.0,0.0,0.0,,D,27_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,35.02,39.96,37.02,38.96,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_D2B57F,2.477,,0.0,,,1.0,1.0,1.0,"Lean in to see squirrel, drive closer, major delay to turn",B,31_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,30.06,36.2,32.06,35.2,,2.477,,False,0.4769999999999998,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_D410E3,3.015,,0.0,,,1.0,0.0,0.0,Lean in to see Markings sign,D,07_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,25.34,31.58,27.34,30.58,,3.015,,False,1.015,0.0,1.0,0.0,0.0,False,0.0,1.0,0.0,0.0,True
+CLIP_D6D4ED,3.415,,0.0,,,0.0,0.0,0.0,,D,21_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,7.39,12.8,9.39,11.8,,3.415,,False,1.415,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_D8CAA4,3.094,,0.0,,,0.0,1.0,1.0,slow down and drive up to the squirrel. Hard to tell if they’re leaning in. ,A,32_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,52.55,62.19,54.55,61.19,91.22,3.094,,False,1.094,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_DDA306,4.185,,0.0,,,0.0,0.0,1.0,Came to a stop before turning to look at the rabbit,D,18_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,7.34,16.18,9.34,15.18,,4.185,,False,2.1849999999999996,0.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_DDCB80,3.286,,0.0,,,0.0,0.0,0.0,slight slowing for rabbit,D,28_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,5.41,10.37,7.41,9.37,,3.286,,False,1.286,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_DE5E8D,3.843,,0.0,,,0.0,1.0,1.0,minor delay in taking bend to look at squirrel,B,30_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,41.52,48.88,43.52,47.88,,3.843,,False,1.843,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_E2C82B,2.880,,0.0,,,0.0,0.0,0.0,very low speed,D,12_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,9.35,14.64,11.35,13.64,,2.88,,False,0.8799999999999999,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_E36B98,,0,1.0,,,0.0,0.0,0.0,,B,27_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,48.77,53.16,50.77,52.16,,,0.0,False,0.0,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_E93748,2.973,,0.0,,,0.0,,0.0,Name from visual search,C,20_RT,2,Q1,Name,Name1,Visual_Search,0,0,5.38,9.85,7.38,8.85,,2.973,,False,0.973,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_E93D7E,4.576,,0.0,,,0.0,,0.0,Name from visual search,C,29_RT,2,Q1,Name,Name1,Visual_Search,0,0,6.0,11.39,8.0,10.39,,4.576,,False,2.5759999999999996,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_E942CC,,0,1.0,,,0.0,0.0,1.0,minor delay in taking bend to look at squirrel,B,09_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,47.73,51.7,49.73,50.7,,,0.0,False,0.0,1.0,0.0,0.0,1.0,False,0.0,0.0,1.0,0.0,True
+CLIP_EA173A,2.177,,0.0,,,1.0,1.0,1.0,"major delay in turn, drove right up to the squirrel and leaned right in. Perfect example of the dual zoom. ",A,21_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,20.85,29.08,22.85,28.08,31.38,2.177,,False,0.177,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_EC31CA,3.354,,0.0,,,0.0,0.0,0.0,,D,03_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,10.38,15.34,12.38,14.34,,3.354,,False,1.354,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_EC8214,2.835,,0.0,,,1.0,1.0,1.0,"A slight lean, and delayed turn. ",A,26_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,28.26,33.18,30.26,32.18,36.52,2.835,,False,0.835,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_F4653A,3.571,,0.0,,,0.0,,1.0,Sudden increase in speed when answering query. ,C,25_RT,2,Q1,Name,Name1,Visual_Search,0,0,7.73,12.59,9.73,11.59,,3.571,,False,1.5710000000000002,0.0,0.0,,1.0,False,0.0,0.0,1.0,0.0,False
+CLIP_F7BB54,3.185,,0.0,,,1.0,1.0,1.0,"Leaned, slowed, delayed turn to see rabbit. ",D,10_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,18.13,25.27,20.13,24.27,,3.185,,False,1.185,0.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
+CLIP_F8A86D,,,0.0,,,0.0,,0.0,Name from working memory,C,36_RT,2,Q1,Name,Name1,Working_Memory,0,0,5.5,13.56,7.5,12.56,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_F9AEA5,3.902,,0.0,,,0.0,0.0,0.0,,D,15_RT,3,Q3,Sign,Markings,Not_Applicable,1,1,17.2,23.76,19.2,22.76,24.67,3.902,,False,1.902,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_FAB901,,,0.0,,,0.0,,0.0,Name from working memory,C,32_RT,2,Q1,Name,Name1,Working_Memory,0,0,16.14,20.66,18.14,19.66,,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_FAE29F,3.196,,0.0,,,0.0,0.0,0.0,Name from visual search,C,22_RT,2,Q1,Name,Name1,Visual_Search,0,0,7.26,12.13,9.26,11.13,,3.196,,False,1.1960000000000002,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_FB6A0F,3.391,,0.0,,,0.0,0.0,0.0,Name from visual search,C,23_RT,2,Q1,Name,Name1,Visual_Search,0,0,14.74,19.23,16.74,18.23,,3.391,,False,1.391,0.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_FB7FCB,3.439,,0.0,,,0.0,1.0,1.0,Slowed down and got closer to see rabbit,D,30_RT,3,Q1,Animal,Rabbit,Not_Applicable,0,0,10.38,16.7,12.38,15.7,,3.439,,False,1.439,0.0,0.0,1.0,1.0,False,1.0,0.0,1.0,0.0,True
+CLIP_FBA2FE,3.955,,1.0,,,0.0,0.0,0.0,low speed,A,18_RT,2,Q3,Animal,Squirrel,Not_Applicable,1,1,41.17,46.01,43.17,45.01,49.88,3.955,,False,1.955,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_FBF028,4.421,,1.0,,,0.0,0.0,0.0,,D,18_RT,3,Q3,Sign,Markings,Not_Applicable,0,0,38.84,43.89,40.84,42.89,,4.421,,False,2.4210000000000003,1.0,0.0,0.0,0.0,False,0.0,0.0,0.0,0.0,True
+CLIP_FE9B4E,3.202,,1.0,,,1.0,0.0,1.0,stopped to look at squirrel ,B,24_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,45.21,50.84,47.21,49.84,,3.202,,False,1.202,1.0,1.0,0.0,1.0,False,0.0,1.0,1.0,0.0,True
+CLIP_FF89D0,,,0.0,,,0.0,,0.0,Name from working memory],C,21_RT,2,Q1,Name,Name1,Working_Memory,1,1,4.3,10.08,6.3,9.08,11.41,,,False,,0.0,0.0,,0.0,False,0.0,0.0,0.0,0.0,False
+CLIP_FFC9D7,2.523,,1.0,,,1.0,1.0,1.0,slowed down and delayed turn to squirrel ,B,22_RT,2,Q3,Animal,Squirrel,Not_Applicable,0,0,29.58,35.92,31.58,34.92,,2.523,,False,0.5230000000000001,1.0,1.0,1.0,1.0,False,1.0,1.0,1.0,1.0,True
