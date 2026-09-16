@@ -12,6 +12,8 @@ Data_Sorted/
 *.wav
 *.mp4
 *.mov
+# keep the committed dashboard demo clip
+!dashboard/sa_dashboard_demo.mp4
 *.pt
 *.pkl
 

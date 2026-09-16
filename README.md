@@ -82,7 +82,11 @@ and are executed in place by `09_Supplementary_Analyses.ipynb`.
 
 `sa_dashboard_app_v3.py` is a Dash/Plotly demo of the layered SA-state monitor: a per-operator
 triage board, live recent-state dials, a probe timeline, and the triggered confidence
-read-out. It reads the committed `SA_Dashboard_*.csv`, so it runs out of the box. Run it from
+read-out.
+
+A short screen recording of the monitor in use is included: [`dashboard/sa_dashboard_demo.mp4`](dashboard/sa_dashboard_demo.mp4).
+
+It reads the committed `SA_Dashboard_*.csv`, so it runs out of the box. Run it from
 the **repository root** (the `dashboard/` prefix is part of the command; the data paths are
 relative to the root, so `cd dashboard` first will not work):
 
